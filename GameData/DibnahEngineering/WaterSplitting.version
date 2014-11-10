@@ -1,0 +1,26 @@
+{
+     "NAME":"Dibnah Engineering - WaterSplitting",
+	 "URL":"https://raw.githubusercontent.com/Deadpan110/Dibnah-Engineering/master/GameData/DibnahEngineering/WaterSplitting.version"
+	 "DOWNLOAD":"https://github.com/Deadpan110/Dibnah-Engineering/releases"
+     "VERSION":{
+         "MAJOR":0,
+         "MINOR":1,
+         "PATCH":0,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":0,
+         "MINOR":25,
+         "PATCH":0
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":0,
+         "MINOR":24,
+         "PATCH":2
+     }
+     "KSP_VERSION_MAX":{
+         "MAJOR":0,
+         "MINOR":25,
+         "PATCH":0
+     }
+ } 
