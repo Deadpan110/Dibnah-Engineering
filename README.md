@@ -71,7 +71,7 @@ A collection of parts dedicated to the separation of water.
 * The consumption of ElectricCharge is too high/too low - is that right?
   * ElectricCharge usage is based on the rates from Universal Storage which uses
   	the value of [1EC=33J]
-  	(http://forum.kerbalspaceprogram.com/threads/75129?p=1504667&viewfull=1#post1504667)
+  	(http://forum.kerbalspaceprogram.com/threads/75129?p=1504667&viewfull=1#post1504667).
 	Other mods and parts use differing values so the correctness of what the
 	actual values are could possibly remain forever in debate until Squad 
 	publish what the actual values should be. As these parts follow the ratios
